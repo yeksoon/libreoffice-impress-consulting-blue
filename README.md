@@ -1,3 +1,9 @@
+![screenshot-002](https://github.com/user-attachments/assets/c912c240-0305-4bf6-95c7-eec286c9b6e3)
+
+![screenshot-001](https://github.com/user-attachments/assets/ec8dc771-2514-49a6-9d39-89e052dafc6c)
+
+![screenshot-003](https://github.com/user-attachments/assets/7136a829-5275-457f-905e-4ddc06da04ff)
+
 ## Craft Compelling Consulting Presentations: A Free LibreOffice Impress Template with Modern Fonts
 
 **The open source community thrives on innovation and collaboration.** This LibreOffice Impress template, built with the same spirit, empowers you to craft compelling and impactful presentations.
